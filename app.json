@@ -1,7 +1,7 @@
 {
-	"name": "tgtjh",
-	"website": "https://github.com/harshamst/skam",
-	"repository": "https://github.com/harshamst/skam",
+	"name": "loli",
+	"website": "https://github.com/cryptdrive/skam",
+	"repository": "https://github.com/cryptdrive/skam",
 	"env": {
 		"TITLE": {
 			"description": "Optionally set the title of this instance",
